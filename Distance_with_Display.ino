@@ -6,10 +6,10 @@
 // Tested on 17 September 2019
 // ---------------------------------------------------------------- //
 #include <LiquidCrystal.h>
-LiquidCrystal lcd(6, 7, 8, 9, 10, 11); // RS, EN, D4, D5, D6, D7
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // RS, EN, D4, D5, D6, D7
 
-#define echoPin 12 // attach pin D12 Arduino to pin Echo of HC-SR04
-#define trigPin 13 //attach pin D13 Arduino to pin Trig of HC-SR04
+#define echoPin 6 // attach pin D12 Arduino to pin Echo of HC-SR04
+#define trigPin 7 //attach pin D13 Arduino to pin Trig of HC-SR04
 
 // defines variables
 long duration; // variable for the duration of sound wave travel
@@ -46,4 +46,7 @@ void loop() {
   lcd.print("Distance: ");
   lcd.print(distance_inch);
   lcd.println(" inch");
+  delay(300);
+  
+
 }
