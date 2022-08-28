@@ -1,3 +1,7 @@
+// Run Scan_I2C sketch to confirm setting for LiquidCrystal_I2C()
+// UNO Analog IN Pin A5 goes to SCL on Liquid Crystal Display 2004A
+// UNO Analog IN Pin A4 goes to SDA on Liquid Crystal Display 2004A
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
