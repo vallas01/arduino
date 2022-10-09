@@ -3,8 +3,7 @@
 // servo is connected to pin 9, +5V, GND with 100uF cap across voltage
 // pushbutton is connected to pin 2 and GND (use internal pull-up resistor)
 
-// OBSERVATION:  arduino servo does not always return to exact starting position
-//               (with laser mounted on top)
+// OBSERVATION:  arduino servo is not too smooth
 
 
 
