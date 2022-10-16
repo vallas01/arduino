@@ -13,4 +13,5 @@ https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-
 ## ESP32 30 Pin
 ### Use Board: "ESP32 Dev Module", set serial monitor baud rate at 115200
 
-<img width="599" alt="ESP-32_30Pin" src="https://user-images.githubusercontent.com/95183136/196012036-4faf6d37-914b-47b8-a246-5529b81abbcf.PNG">
+<img width="949" alt="ESP-32_30Pin_layout" src="https://user-images.githubusercontent.com/95183136/196055014-bd0de6ba-4f37-4087-934c-735716076187.PNG">
+
