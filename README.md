@@ -16,3 +16,8 @@ LED Built-in Pin is 2 / Try setting serial monitor baud rate to 115200 if not de
 
 <img width="949" alt="ESP-32_30Pin_layout" src="https://user-images.githubusercontent.com/95183136/196055014-bd0de6ba-4f37-4087-934c-735716076187.PNG">
 
+##
+## ESP32 38 Pin
+### Use Board: "ESP32 Dev Module" 
+
+<img width="973" alt="ESP-32_38Pin" src="https://user-images.githubusercontent.com/95183136/196280340-3cdce4c2-4630-4b43-8b22-c619b09e88b1.PNG">
